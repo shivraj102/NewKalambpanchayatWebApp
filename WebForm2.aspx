@@ -1,0 +1,2 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="NewKalambpanchayatWebApp.WebForm2" %>
+<asp:Label ID="Label1" runat="server" Text="Kalamb is has a very rich cultural heritage.Kalamb is well known for higher literacy rate, Freedom Fighters, To give first Doctors,Engineers, Lawyers, CA's, Etc amont the "></asp:Label>
